@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy 😺
 
 <!--
 **hobbeskocha/hobbeskocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub page!
+
+Please click [here](https://github.com/hobbeskocha/analytics-portfolio) for my portfolio of Analytics and Data Science projects 💻
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/) if you want to chat 😄
