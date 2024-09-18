@@ -19,4 +19,4 @@ Welcome to my GitHub page!
 
 Please click [here](https://github.com/hobbeskocha/analytics-portfolio) for my Analytics and Data Science portfolio 💻
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/) if you want to chat 😄
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/) 😄
