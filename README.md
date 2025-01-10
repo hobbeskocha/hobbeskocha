@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub page!
 
-Please click [here](https://github.com/hobbeskocha/analytics-portfolio) for my Analytics and Data Science portfolio 💻
+Please click [here](https://github.com/hobbeskocha/analytics-portfolio/) for my Analytics and Machine Learning portfolio 💻
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-yoshi-shrestha/) 😄
